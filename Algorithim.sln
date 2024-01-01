@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithim", "Algorithim\Algorithim.csproj", "{FDBFA7D0-5331-4CBD-A93D-070CB7C5500E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeAlternately", "MergeAlternately\MergeAlternately.csproj", "{9C0D8593-CFEE-4820-9399-353BDD4E11C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDBFA7D0-5331-4CBD-A93D-070CB7C5500E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBFA7D0-5331-4CBD-A93D-070CB7C5500E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBFA7D0-5331-4CBD-A93D-070CB7C5500E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBFA7D0-5331-4CBD-A93D-070CB7C5500E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C0D8593-CFEE-4820-9399-353BDD4E11C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0D8593-CFEE-4820-9399-353BDD4E11C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0D8593-CFEE-4820-9399-353BDD4E11C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0D8593-CFEE-4820-9399-353BDD4E11C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CF7E431-8120-435D-A21B-B477A8932DB4}
+	EndGlobalSection
+EndGlobal
