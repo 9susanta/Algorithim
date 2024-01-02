@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithim", "Algorithim\Algorithim.csproj", "{FDBFA7D0-5331-4CBD-A93D-070CB7C5500E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithim", "Algorithim\Algorithim.csproj", "{FDBFA7D0-5331-4CBD-A93D-070CB7C5500E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeAlternately", "MergeAlternately\MergeAlternately.csproj", "{9C0D8593-CFEE-4820-9399-353BDD4E11C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeAlternately", "MergeAlternately\MergeAlternately.csproj", "{9C0D8593-CFEE-4820-9399-353BDD4E11C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringGCD", "StringGCD\StringGCD.csproj", "{326EE5D2-5518-41EA-881E-480831089727}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9C0D8593-CFEE-4820-9399-353BDD4E11C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C0D8593-CFEE-4820-9399-353BDD4E11C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C0D8593-CFEE-4820-9399-353BDD4E11C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326EE5D2-5518-41EA-881E-480831089727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326EE5D2-5518-41EA-881E-480831089727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326EE5D2-5518-41EA-881E-480831089727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326EE5D2-5518-41EA-881E-480831089727}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
