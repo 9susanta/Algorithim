@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using MergeAlternately;
+
+using CanPlaceFlowers;
 
 Console.WriteLine("Hello, World!");
-MergeAlternatelySolution.MergeAlternately("Hello", "World!");
+CanFlowerPlace.CanPlaceFlowers([0], 2);

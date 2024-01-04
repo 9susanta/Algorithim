@@ -1,1 +1,1 @@
-This repository only used to day to day alorithm practice activity
+This repository only used for day to day alorithm practice activity

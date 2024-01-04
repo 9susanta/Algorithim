@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithim", "Algorithim\Algorithim.csproj", "{FDBFA7D0-5331-4CBD-A93D-070CB7C5500E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithim", "Algorithim\Algorithim.csproj", "{FDBFA7D0-5331-4CBD-A93D-070CB7C5500E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeAlternately", "MergeAlternately\MergeAlternately.csproj", "{9C0D8593-CFEE-4820-9399-353BDD4E11C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeAlternately", "MergeAlternately\MergeAlternately.csproj", "{9C0D8593-CFEE-4820-9399-353BDD4E11C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringGCD", "StringGCD\StringGCD.csproj", "{326EE5D2-5518-41EA-881E-480831089727}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreatestNumberCandies", "GreatestNumberCandies\GreatestNumberCandies.csproj", "{B4912400-AB00-47CA-BFBF-84337E58648F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanPlaceFlowers", "CanPlaceFlowers\CanPlaceFlowers.csproj", "{63D52388-9A52-430B-8A29-2DCB864B72DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{9C0D8593-CFEE-4820-9399-353BDD4E11C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C0D8593-CFEE-4820-9399-353BDD4E11C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C0D8593-CFEE-4820-9399-353BDD4E11C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326EE5D2-5518-41EA-881E-480831089727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326EE5D2-5518-41EA-881E-480831089727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326EE5D2-5518-41EA-881E-480831089727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326EE5D2-5518-41EA-881E-480831089727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4912400-AB00-47CA-BFBF-84337E58648F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4912400-AB00-47CA-BFBF-84337E58648F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4912400-AB00-47CA-BFBF-84337E58648F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4912400-AB00-47CA-BFBF-84337E58648F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63D52388-9A52-430B-8A29-2DCB864B72DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D52388-9A52-430B-8A29-2DCB864B72DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D52388-9A52-430B-8A29-2DCB864B72DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D52388-9A52-430B-8A29-2DCB864B72DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
