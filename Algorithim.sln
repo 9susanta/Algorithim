@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeAlternately", "MergeAl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringGCD", "StringGCD\StringGCD.csproj", "{326EE5D2-5518-41EA-881E-480831089727}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestNumberCandies", "GreatestNumberCandies\GreatestNumberCandies.csproj", "{B4912400-AB00-47CA-BFBF-84337E58648F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreatestNumberCandies", "GreatestNumberCandies\GreatestNumberCandies.csproj", "{B4912400-AB00-47CA-BFBF-84337E58648F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanPlaceFlowers", "CanPlaceFlowers\CanPlaceFlowers.csproj", "{63D52388-9A52-430B-8A29-2DCB864B72DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B4912400-AB00-47CA-BFBF-84337E58648F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4912400-AB00-47CA-BFBF-84337E58648F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4912400-AB00-47CA-BFBF-84337E58648F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63D52388-9A52-430B-8A29-2DCB864B72DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D52388-9A52-430B-8A29-2DCB864B72DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D52388-9A52-430B-8A29-2DCB864B72DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D52388-9A52-430B-8A29-2DCB864B72DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
