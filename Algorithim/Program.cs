@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
-using CanPlaceFlowers;
+using ReverseVowel;
 
 Console.WriteLine("Hello, World!");
-CanFlowerPlace.CanPlaceFlowers([0], 2);
+ReverseString.ReverseVowels("leetcode");
