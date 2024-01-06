@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreatestNumberCandies", "Gr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanPlaceFlowers", "CanPlaceFlowers\CanPlaceFlowers.csproj", "{63D52388-9A52-430B-8A29-2DCB864B72DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseVowel", "ReverseVowel\ReverseVowel.csproj", "{0D7E2AB0-A5DB-4444-A8FC-0BD6832A90E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseVowel", "ReverseVowel\ReverseVowel.csproj", "{0D7E2AB0-A5DB-4444-A8FC-0BD6832A90E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsString", "ReverseWordsString\ReverseWordsString.csproj", "{ED4B3EEA-DECD-4CC6-A2D3-56ABE8A00EE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0D7E2AB0-A5DB-4444-A8FC-0BD6832A90E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D7E2AB0-A5DB-4444-A8FC-0BD6832A90E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D7E2AB0-A5DB-4444-A8FC-0BD6832A90E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED4B3EEA-DECD-4CC6-A2D3-56ABE8A00EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4B3EEA-DECD-4CC6-A2D3-56ABE8A00EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4B3EEA-DECD-4CC6-A2D3-56ABE8A00EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4B3EEA-DECD-4CC6-A2D3-56ABE8A00EE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

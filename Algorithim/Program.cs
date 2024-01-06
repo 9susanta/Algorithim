@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using ReverseVowel;
+using ReverseWordsString;
 
 Console.WriteLine("Hello, World!");
-ReverseString.ReverseVowels("leetcode");
+ReverseWord.ReverseWords("a good   example");
