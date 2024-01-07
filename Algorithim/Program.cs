@@ -4,4 +4,4 @@ using ReverseVowel;
 using ReverseWordsString;
 
 Console.WriteLine("Hello, World!");
-Product.ProductExceptSelf([1, 1, 3, 4]);
+Product.ProductExceptSelf([1, 2, 3, 4]);
