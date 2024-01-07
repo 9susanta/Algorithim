@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanPlaceFlowers", "CanPlace
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseVowel", "ReverseVowel\ReverseVowel.csproj", "{0D7E2AB0-A5DB-4444-A8FC-0BD6832A90E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsString", "ReverseWordsString\ReverseWordsString.csproj", "{ED4B3EEA-DECD-4CC6-A2D3-56ABE8A00EE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseWordsString", "ReverseWordsString\ReverseWordsString.csproj", "{ED4B3EEA-DECD-4CC6-A2D3-56ABE8A00EE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductOfArrayExceptItself", "ProductOfArrayExceptItself\ProductOfArrayExceptItself.csproj", "{E5F7ADE6-D59C-4ED3-8E7F-812B4CE40039}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{ED4B3EEA-DECD-4CC6-A2D3-56ABE8A00EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED4B3EEA-DECD-4CC6-A2D3-56ABE8A00EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED4B3EEA-DECD-4CC6-A2D3-56ABE8A00EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F7ADE6-D59C-4ED3-8E7F-812B4CE40039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F7ADE6-D59C-4ED3-8E7F-812B4CE40039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F7ADE6-D59C-4ED3-8E7F-812B4CE40039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F7ADE6-D59C-4ED3-8E7F-812B4CE40039}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
