@@ -1,7 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using ProductOfArrayExceptItself;
-using ReverseVowel;
-using ReverseWordsString;
+using IncreasingTripletSubsequence;
 
 Console.WriteLine("Hello, World!");
-Product.ProductExceptSelf([1, 2, 3, 4]);
+TripletSubsequence.IncreasingTriplet([20, 100, 10, 12, 5, 13]);
