@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using IncreasingTripletSubsequence;
+using StringCompression;
 
 Console.WriteLine("Hello, World!");
-TripletSubsequence.IncreasingTriplet([20, 100, 10, 12, 5, 13]);
+Compress.StringCompress(['a','a','b','b','c']);
