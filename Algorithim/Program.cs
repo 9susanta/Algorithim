@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
-using CanPlaceFlowers;
+using IncreasingTripletSubsequence;
+using StringCompression;
 
 Console.WriteLine("Hello, World!");
-CanFlowerPlace.CanPlaceFlowers([0], 2);
+Compress.StringCompress(['a','a','b','b','c']);

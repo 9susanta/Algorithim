@@ -10,7 +10,12 @@
   <ItemGroup>
     <ProjectReference Include="..\CanPlaceFlowers\CanPlaceFlowers.csproj" />
     <ProjectReference Include="..\GreatestNumberCandies\GreatestNumberCandies.csproj" />
+    <ProjectReference Include="..\IncreasingTripletSubsequence\IncreasingTripletSubsequence.csproj" />
     <ProjectReference Include="..\MergeAlternately\MergeAlternately.csproj" />
+    <ProjectReference Include="..\ProductOfArrayExceptItself\ProductOfArrayExceptItself.csproj" />
+    <ProjectReference Include="..\ReverseVowel\ReverseVowel.csproj" />
+    <ProjectReference Include="..\ReverseWordsString\ReverseWordsString.csproj" />
+    <ProjectReference Include="..\StringCompression\StringCompression.csproj" />
     <ProjectReference Include="..\StringGCD\StringGCD.csproj" />
   </ItemGroup>
 
